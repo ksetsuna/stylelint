@@ -1,0 +1,29 @@
+{
+  "name": "cssrules",
+  "version": "1.0.0",
+  "description": "CSS Rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ksetsuna/stylelint.git"
+  },
+  "keywords": [
+    "CSS"
+  ],
+  "author": "ksetsuna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksetsuna/stylelint/issues"
+  },
+  "homepage": "https://github.com/ksetsuna/stylelint#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "stylelint": "^8.4.0",
+    "stylelint-order": "^0.8.0"
+  }
+}
